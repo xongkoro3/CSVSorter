@@ -1,6 +1,6 @@
 # CSVSorter
 
-CSVSorter is a Python library for sorting csv content values. It handles multi-line records and print the sorted values as strings to the console. 
+CSVSorter is a Python library for sorting csv content values. It handles multi-line records and print the sorted values as strings to the console. An empty string is printed if no value matches the sorting criteria.
 
 ## Usage
 
